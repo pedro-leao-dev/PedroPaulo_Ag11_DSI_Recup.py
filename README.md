@@ -23,4 +23,4 @@ Projeto desenvolvido para a atividade de recuperação da **Agenda 11 - Bibliote
 | **Nível 2** | Baixo | 🟡 Amarelo |
 | **Nível 3** | Médio | 🟢 Verde |
 | **Nível 4** | Alto | 🔵 Ciano |
-| **Nível 5** | Muito alto (al
+| **Nível 5** | Muito alto (alerta) | 🟦 Azul |
